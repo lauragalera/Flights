@@ -1,0 +1,4 @@
+<map id="Routes::addToRightStructure" name="Routes::addToRightStructure">
+<area shape="rect" id="node2" href="$class_route.html#a69588b8d83a34a2674fcfe10000179f4" title="Retorna el codi ID de l&#39;areolínia que opera aquesta ruta. " alt="" coords="270,5,403,32"/>
+<area shape="rect" id="node3" href="$class_route.html#af5659cf6d2b40a4a6b5340f80b7c81e1" title="Retorna el codi IATA o ICAO de l&#39;aerolínia que opera aquesta ruta. " alt="" coords="245,56,428,83"/>
+</map>

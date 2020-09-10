@@ -1,0 +1,4 @@
+<map id="Flights::mostdelayedAirlines" name="Flights::mostdelayedAirlines">
+<area shape="rect" id="node2" href="$class_flight.html#ac784a4e386dfa55fb519812cd82e60c0" title="Retorna el valor del retard de sortida o el d&#39;arribada. " alt="" coords="266,5,381,32"/>
+<area shape="rect" id="node3" href="$class_airlines.html#a7f10747a1da760ab543bf4f8dfe2643a" title="Retorna una tupla InfoAirline amb el nom i el país de l&#39;aerolínia identificada a partir de IATA..." alt="" coords="240,56,407,83"/>
+</map>

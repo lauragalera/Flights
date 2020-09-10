@@ -1,0 +1,5 @@
+<map id="Flights::mostDelayedAirports" name="Flights::mostDelayedAirports">
+<area shape="rect" id="node2" href="$class_flight.html#a7c33bcee25ad68f6c60b75a3f26c8c09" title="Retorna el valor del codi IATA de l&#39;aeroport de sortida o el d&#39;arribada. " alt="" coords="255,5,403,32"/>
+<area shape="rect" id="node3" href="$class_flight.html#ac784a4e386dfa55fb519812cd82e60c0" title="Retorna el valor del retard de sortida o el d&#39;arribada. " alt="" coords="272,56,387,83"/>
+<area shape="rect" id="node4" href="$class_airports.html#a7c2dc30cc50eb3dad77fdaffb1e83486" title="Retorna una tupla de tipus InfoAirport amb el nom i país de l&#39;aeroport. " alt="" coords="244,107,415,133"/>
+</map>

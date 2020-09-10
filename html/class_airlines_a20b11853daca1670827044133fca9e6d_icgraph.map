@@ -1,0 +1,5 @@
+<map id="Airlines::lookForCountry" name="Airlines::lookForCountry">
+<area shape="rect" id="node2" href="$class_routes.html#a22b53ad83e820d42ffc17c905c5fe383" title="Retorna un set que conté tuples de tipus AirlineType amb el recompte de rutes nacionals i internacion..." alt="" coords="216,5,415,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ad5b72be2e5f33edff3d8373ec1cba88e" title="Realitza un seguit de consultes sobre les dades llegides anteriorment. " alt="" coords="463,5,576,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="624,5,675,32"/>
+</map>

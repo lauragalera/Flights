@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Pràctica 1: Fitxer de Codi Plane.cpp</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="Screenshot from 2019-11-30 23-41-29.png"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Pràctica 1
+   </div>
+   <div id="projectbrief">Consultes d&#39;aviació</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('_plane_8cpp_source.html','');});
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="header">
+  <div class="headertitle">
+<div class="title">Plane.cpp</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_plane_8cpp.html">Veure la documentació d'aquest fitxer.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">//Laura Galera Alfaro</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment">//u1959173</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment">//practica final</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_plane_8h.html">Plane.h</a>&quot;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div><div class="line"><a name="l00007"></a><span class="lineno"><a class="line" href="class_plane.html#a49edd3054b8ff2bd3e968079e952cd15">    7</a></span>&#160;<a class="code" href="class_plane.html#a49edd3054b8ff2bd3e968079e952cd15">Plane::Plane</a>(<span class="keyword">const</span> vector&lt;string&gt; &amp;dataRead) {</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    </div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    <a class="code" href="class_plane.html#a4de94b9ea5f8176c50878b592bf9342f">_name</a> = dataRead[<a class="code" href="class_plane.html#a9952e92b134b487db2ecde42e737ad4eadb495c2a5010dcfe1ef17e3f9a4a5834">name</a>];</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    <a class="code" href="class_plane.html#a96e66c502dd09eb040cd24394c455ff7">_IATACode</a> = dataRead[<a class="code" href="class_plane.html#a9952e92b134b487db2ecde42e737ad4ea991d4f4e78a43ff23b866dcb94f87ac3">IATA</a>];</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <a class="code" href="class_plane.html#aab07541deab916dacf76e4ecf47bb71b">_ICAOCode</a> = dataRead[<a class="code" href="class_plane.html#a9952e92b134b487db2ecde42e737ad4ea51e2c8030ee467a5019fa661f131d968">ICAO</a>];</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;}</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;</div><div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="class_plane.html#a02b47ccaf5e5e3c3bfc1326fd584fe3a">   14</a></span>&#160;<span class="keywordtype">string</span> <a class="code" href="class_plane.html#a02b47ccaf5e5e3c3bfc1326fd584fe3a">Plane::getIATA</a>()<span class="keyword"> const </span>{</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    </div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="class_plane.html#a96e66c502dd09eb040cd24394c455ff7">_IATACode</a>;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;}</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div><div class="line"><a name="l00019"></a><span class="lineno"><a class="line" href="class_plane.html#abb2902e52aef81adbb3a4b076a8b0e29">   19</a></span>&#160;<span class="keywordtype">string</span> <a class="code" href="class_plane.html#abb2902e52aef81adbb3a4b076a8b0e29">Plane::getName</a>()<span class="keyword"> const</span>{</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    </div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="class_plane.html#a4de94b9ea5f8176c50878b592bf9342f">_name</a>;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;}</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;</div><div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="class_plane.html#a9ddc6f0d4b7046e8c567d8aea5042692">   24</a></span>&#160;<span class="keywordtype">bool</span> <a class="code" href="class_plane.html#a9ddc6f0d4b7046e8c567d8aea5042692">Plane::knownIATA</a>()<span class="keyword"> const </span>{</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    </div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="class_plane.html#a96e66c502dd09eb040cd24394c455ff7">_IATACode</a> != <span class="stringliteral">&quot;\\N&quot;</span>);</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;}</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;</div><div class="ttc" id="class_plane_html_a9952e92b134b487db2ecde42e737ad4ea991d4f4e78a43ff23b866dcb94f87ac3"><div class="ttname"><a href="class_plane.html#a9952e92b134b487db2ecde42e737ad4ea991d4f4e78a43ff23b866dcb94f87ac3">Plane::IATA</a></div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00050">Plane.h:50</a></div></div>
+<div class="ttc" id="class_plane_html_a9952e92b134b487db2ecde42e737ad4ea51e2c8030ee467a5019fa661f131d968"><div class="ttname"><a href="class_plane.html#a9952e92b134b487db2ecde42e737ad4ea51e2c8030ee467a5019fa661f131d968">Plane::ICAO</a></div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00050">Plane.h:50</a></div></div>
+<div class="ttc" id="class_plane_html_abb2902e52aef81adbb3a4b076a8b0e29"><div class="ttname"><a href="class_plane.html#abb2902e52aef81adbb3a4b076a8b0e29">Plane::getName</a></div><div class="ttdeci">string getName() const</div><div class="ttdoc">Retorna el nom de l&amp;#39;avió. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8cpp_source.html#l00019">Plane.cpp:19</a></div></div>
+<div class="ttc" id="class_plane_html_a9952e92b134b487db2ecde42e737ad4eadb495c2a5010dcfe1ef17e3f9a4a5834"><div class="ttname"><a href="class_plane.html#a9952e92b134b487db2ecde42e737ad4eadb495c2a5010dcfe1ef17e3f9a4a5834">Plane::name</a></div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00050">Plane.h:50</a></div></div>
+<div class="ttc" id="_plane_8h_html"><div class="ttname"><a href="_plane_8h.html">Plane.h</a></div><div class="ttdoc">Classe Plane. </div></div>
+<div class="ttc" id="class_plane_html_a4de94b9ea5f8176c50878b592bf9342f"><div class="ttname"><a href="class_plane.html#a4de94b9ea5f8176c50878b592bf9342f">Plane::_name</a></div><div class="ttdeci">string _name</div><div class="ttdoc">Nom de l&amp;#39;avió. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00045">Plane.h:45</a></div></div>
+<div class="ttc" id="class_plane_html_a02b47ccaf5e5e3c3bfc1326fd584fe3a"><div class="ttname"><a href="class_plane.html#a02b47ccaf5e5e3c3bfc1326fd584fe3a">Plane::getIATA</a></div><div class="ttdeci">string getIATA() const</div><div class="ttdoc">Retorn el valor del codi IATA de l&amp;#39;avió. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8cpp_source.html#l00014">Plane.cpp:14</a></div></div>
+<div class="ttc" id="class_plane_html_aab07541deab916dacf76e4ecf47bb71b"><div class="ttname"><a href="class_plane.html#aab07541deab916dacf76e4ecf47bb71b">Plane::_ICAOCode</a></div><div class="ttdeci">string _ICAOCode</div><div class="ttdoc">Codi ICAO de 4 lletres de l&amp;#39;avió. Si es desconeix \N. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00047">Plane.h:47</a></div></div>
+<div class="ttc" id="class_plane_html_a96e66c502dd09eb040cd24394c455ff7"><div class="ttname"><a href="class_plane.html#a96e66c502dd09eb040cd24394c455ff7">Plane::_IATACode</a></div><div class="ttdeci">string _IATACode</div><div class="ttdoc">Codi IATA de 3 lletres de l&amp;#39;avió. Si es desconeix \N. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8h_source.html#l00046">Plane.h:46</a></div></div>
+<div class="ttc" id="class_plane_html_a49edd3054b8ff2bd3e968079e952cd15"><div class="ttname"><a href="class_plane.html#a49edd3054b8ff2bd3e968079e952cd15">Plane::Plane</a></div><div class="ttdeci">Plane(const vector&lt; string &gt; &amp;dataRead)</div><div class="ttdoc">Crea un avió a partir d&amp;#39;un vector de strings. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8cpp_source.html#l00007">Plane.cpp:7</a></div></div>
+<div class="ttc" id="class_plane_html_a9ddc6f0d4b7046e8c567d8aea5042692"><div class="ttname"><a href="class_plane.html#a9ddc6f0d4b7046e8c567d8aea5042692">Plane::knownIATA</a></div><div class="ttdeci">bool knownIATA() const</div><div class="ttdoc">Retorna cert si es coneix el valor del codi IATA, fals altrament. </div><div class="ttdef"><b>Definition:</b> <a href="_plane_8cpp_source.html#l00024">Plane.cpp:24</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="_plane_8cpp.html">Plane.cpp</a></li>
+    <li class="footer">Generat per
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
+  </ul>
+</div>
+</body>
+</html>

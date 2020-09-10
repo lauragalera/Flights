@@ -1,0 +1,5 @@
+<map id="Flights::includeToAllStructures" name="Flights::includeToAllStructures">
+<area shape="rect" id="node2" href="$class_flight.html#ac7d86ffa7e0b4d151d874d64b336df76" title="retorna la data d&#39;aquest vol. " alt="" coords="273,5,381,32"/>
+<area shape="rect" id="node3" href="$class_flight.html#a76d5f90369b10eb2ef8d475ae8f3ead2" title="Retorna el valor del codi IATA de l&#39;aerolínia que opera el vol. " alt="" coords="254,56,401,83"/>
+<area shape="rect" id="node4" href="$class_flight.html#a7c33bcee25ad68f6c60b75a3f26c8c09" title="Retorna el valor del codi IATA de l&#39;aeroport de sortida o el d&#39;arribada. " alt="" coords="253,107,401,133"/>
+</map>

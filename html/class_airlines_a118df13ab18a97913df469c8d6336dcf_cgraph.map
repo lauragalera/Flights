@@ -1,0 +1,4 @@
+<map id="Airlines::manageICAORepeated" name="Airlines::manageICAORepeated">
+<area shape="rect" id="node2" href="$class_airline.html#ae79193f036bee8a11b31876898d6843c" title="Retorna el valor del codi ICAO. " alt="" coords="261,5,379,32"/>
+<area shape="rect" id="node3" href="$class_airline.html#ab127528e3f43d3056edc1867a9902c2e" title="Retorna cert si l&#39;aerolínia està activa, fals altrament. " alt="" coords="263,56,377,83"/>
+</map>

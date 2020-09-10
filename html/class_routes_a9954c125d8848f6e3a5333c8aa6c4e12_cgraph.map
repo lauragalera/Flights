@@ -1,0 +1,11 @@
+<map id="Routes::addRoute" name="Routes::addRoute">
+<area shape="rect" id="node2" href="$class_airlines.html#abadecd45a138fce895f41899afab56c9" title="Comprova a partir del ID o del codi IATA o ICAO d&#39;una aerolínia si aquesta existeix en el conjunt..." alt="" coords="205,5,349,32"/>
+<area shape="rect" id="node3" href="$class_route.html#a69588b8d83a34a2674fcfe10000179f4" title="Retorna el codi ID de l&#39;areolínia que opera aquesta ruta. " alt="" coords="446,81,579,108"/>
+<area shape="rect" id="node4" href="$class_route.html#af5659cf6d2b40a4a6b5340f80b7c81e1" title="Retorna el codi IATA o ICAO de l&#39;aerolínia que opera aquesta ruta. " alt="" coords="421,259,604,285"/>
+<area shape="rect" id="node5" href="$class_airports.html#a2de2b0d73ce92c5de7c6b0e66274de8f" title="Comprova a partir del ID, el codi IATA o el codi ICAO si existeix l&#39;aeroport dins el conjunt..." alt="" coords="203,157,351,184"/>
+<area shape="rect" id="node6" href="$class_route.html#a5cb25fb95358b899aafaef99fa0584fa" title="Retorna el codi ID de l&#39;aeroport de sortida o destí. " alt="" coords="210,208,345,235"/>
+<area shape="rect" id="node7" href="$class_route.html#a5ce2451eb567868e412836d3cde1189c" title="Retorna el codi IATA o ICAO de l&#39;aeroport de sortida o destí. " alt="" coords="185,259,369,285"/>
+<area shape="rect" id="node8" href="$class_planes.html#a904efa64968b048d988fe94887a3c666" title="Retorna cert si tots els avions de la llista pertanyen al conjunt. " alt="" coords="193,309,362,336"/>
+<area shape="rect" id="node9" href="$class_route.html#a09ad47bb1b23e02a8cd81d9e2e6d8ff1" title="Retorna una list de strings amb els codis IATA dels avions usats en aquesta ruta. ..." alt="" coords="205,360,350,387"/>
+<area shape="rect" id="node10" href="$class_routes.html#ad5140a1e4cd489d63c1fc9a892864a3b" title="Afageix la ruta a l&#39;estructura que li pertoca, per tant, a &#160;_mapRoutesAirlines a &#160;_mapRoutesIATA o a ..." alt="" coords="181,107,373,133"/>
+</map>

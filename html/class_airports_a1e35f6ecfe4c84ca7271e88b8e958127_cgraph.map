@@ -1,0 +1,8 @@
+<map id="Airports::operator=" name="Airports::operator=">
+<area shape="rect" id="node2" href="$class_airports.html#af24084748443026d73d28ba2f77980ac" title="Allibera memòria. " alt="" coords="187,31,284,57"/>
+<area shape="rect" id="node3" href="$class_airports.html#a5af04f89deb52dfb0da12f2108713422" title="Aquest conunt d&#39;aeroports és una copia d&#39; a. " alt="" coords="184,81,287,108"/>
+<area shape="rect" id="node4" href="$class_airport.html#a37cd13c45356e36ee6e6ab3569f38348" title="Retorna cert si el valor del codi IATA és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="336,5,472,32"/>
+<area shape="rect" id="node5" href="$class_airport.html#aa3e424fdfb9d745eb84d4b19dac52ddc" title="Retorna el valor del codi IATA d&#39;aquest aeroport. " alt="" coords="346,56,462,83"/>
+<area shape="rect" id="node6" href="$class_airport.html#a970c02b2dda35bbc21331c325ef73f19" title="Retorna cert si el valor del codi ICAO és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="335,107,473,133"/>
+<area shape="rect" id="node7" href="$class_airport.html#a0d5f4711b51cea0428b290f11f3042c8" title="Retorna el valor del codi ICAO d&#39;aquest aeroport. " alt="" coords="345,157,463,184"/>
+</map>

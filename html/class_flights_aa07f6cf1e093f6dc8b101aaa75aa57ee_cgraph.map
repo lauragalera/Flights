@@ -1,0 +1,8 @@
+<map id="Flights::operator=" name="Flights::operator=">
+<area shape="rect" id="node2" href="$class_flights.html#ab441fa394c36114b8091f07a06331ced" title="Allibera memòria. " alt="" coords="181,5,271,32"/>
+<area shape="rect" id="node3" href="$class_flights.html#a2e2e87f4dd4b3bf7ab91abeff0f3264d" title="El conjunt d&#39;avions és una copia de f. " alt="" coords="177,56,275,83"/>
+<area shape="rect" id="node4" href="$class_flights.html#a8d46bbe586f9380e4faa966f56e03b13" title="Afageix un vol a totes les estructures de dades del conjunt. " alt="" coords="323,56,523,83"/>
+<area shape="rect" id="node5" href="$class_flight.html#ac7d86ffa7e0b4d151d874d64b336df76" title="retorna la data d&#39;aquest vol. " alt="" coords="591,5,699,32"/>
+<area shape="rect" id="node6" href="$class_flight.html#a76d5f90369b10eb2ef8d475ae8f3ead2" title="Retorna el valor del codi IATA de l&#39;aerolínia que opera el vol. " alt="" coords="571,56,718,83"/>
+<area shape="rect" id="node7" href="$class_flight.html#a7c33bcee25ad68f6c60b75a3f26c8c09" title="Retorna el valor del codi IATA de l&#39;aeroport de sortida o el d&#39;arribada. " alt="" coords="571,107,719,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Airlines::operator=" name="Airlines::operator=">
+<area shape="rect" id="node2" href="$class_airlines.html#a23e738c1c894b16c589a47d044f8cfc4" title="allibera memòria. " alt="" coords="185,81,279,108"/>
+<area shape="rect" id="node3" href="$class_airlines.html#aec2b43be95e44d8a12e7bf708ed76876" title="el conjunt d&#39;aerolínies és una copia d&#39;a. " alt="" coords="181,132,283,159"/>
+<area shape="rect" id="node4" href="$class_airline.html#ac51b4bd4f193811db26427cf08dd9048" title="Retorna el valor del codi ID de l&#39;aerolínia. " alt="" coords="385,5,484,32"/>
+<area shape="rect" id="node5" href="$class_airline.html#aa81a3357bc93f5f78a9def2e2ae8a64c" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="367,56,502,83"/>
+<area shape="rect" id="node6" href="$class_airlines.html#af1733579883b822a412599b525d0417e" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapIATAAirlines, després de contemplar un seguit de ..." alt="" coords="332,107,537,133"/>
+<area shape="rect" id="node9" href="$class_airline.html#afa70ebcbf7159d2def88b4f199297750" title="Retorna cert si es coneix el valor del codi ICAO, fals altrament. " alt="" coords="366,157,503,184"/>
+<area shape="rect" id="node10" href="$class_airlines.html#a118df13ab18a97913df469c8d6336dcf" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapICAOAirlines, després de contemplar un seguit de ..." alt="" coords="331,208,539,235"/>
+<area shape="rect" id="node12" href="$class_airlines.html#ad66b43d9510d9ed2feca687cb7ed88d6" title="Neteja les dades que poden generar ambigüitats per a identificar aerolínies, ja que certs camps que h..." alt="" coords="359,259,511,285"/>
+<area shape="rect" id="node7" href="$class_airline.html#a1883132f78251ad3311c609256cf851a" title="Retorna el valor del codi IATA. " alt="" coords="588,107,703,133"/>
+<area shape="rect" id="node8" href="$class_airline.html#ab127528e3f43d3056edc1867a9902c2e" title="Retorna cert si l&#39;aerolínia està activa, fals altrament. " alt="" coords="589,157,702,184"/>
+<area shape="rect" id="node11" href="$class_airline.html#ae79193f036bee8a11b31876898d6843c" title="Retorna el valor del codi ICAO. " alt="" coords="587,208,704,235"/>
+</map>

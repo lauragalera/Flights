@@ -1,0 +1,12 @@
+<map id="Airline::getIATA" name="Airline::getIATA">
+<area shape="rect" id="node2" href="$class_airlines.html#af1733579883b822a412599b525d0417e" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapIATAAirlines, després de contemplar un seguit de ..." alt="" coords="168,81,373,108"/>
+<area shape="rect" id="node9" href="$class_routes.html#a474a04d2a78c58206b2e473a6a173d52" title="Es retorna la llista de vols operats per una aerolínia. " alt="" coords="197,137,344,164"/>
+<area shape="rect" id="node3" href="$class_airlines.html#a0bb32b80db1d3ef35b89f8dfddde59fc" title="Afageix una aerolínia vàlida al conjunt d&#39;aerolínies. " alt="" coords="439,19,569,45"/>
+<area shape="rect" id="node6" href="$class_airlines.html#aec2b43be95e44d8a12e7bf708ed76876" title="el conjunt d&#39;aerolínies és una copia d&#39;a. " alt="" coords="453,81,555,108"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a341ddb4f098fda7cf8c53cc169010da8" title="Es llegeixen les dades dels fitxers a partir de les rutes entrades per teclat i es processen per tal ..." alt="" coords="653,5,744,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="811,81,861,108"/>
+<area shape="rect" id="node7" href="$class_airlines.html#a4a6ab0db21f1860fc491f6f9eac7dfce" title="El conjunt d&#39;aerolínies és una copia d&#39; a. " alt="" coords="641,56,757,83"/>
+<area shape="rect" id="node8" href="$class_airlines.html#a9d18e282d7827f25a9b4d2e64a497b8a" title="El conjunt d&#39;aerolínies és una copia d&#39; a. " alt="" coords="635,107,763,133"/>
+<area shape="rect" id="node10" href="$class_routes.html#ae15ad4fc2e34283d7d09e11d9960d533" title="Retorna un map amb el nom de l&#39;aerolínia i una llista del nom dels avions més utilitzats per l&#39;aerolí..." alt="" coords="421,144,587,171"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#ad5b72be2e5f33edff3d8373ec1cba88e" title="Realitza un seguit de consultes sobre les dades llegides anteriorment. " alt="" coords="642,157,755,184"/>
+</map>

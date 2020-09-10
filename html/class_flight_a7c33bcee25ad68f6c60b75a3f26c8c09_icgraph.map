@@ -1,0 +1,12 @@
+<map id="Flight::getIATAAirport" name="Flight::getIATAAirport">
+<area shape="rect" id="node2" href="$class_flights.html#a4f7152181115a1add9a8616885ceca48" title="Afageix un vol al conjunt de vols sempre i quan aquest sigui vàlid. " alt="" coords="449,107,572,133"/>
+<area shape="rect" id="node5" href="$class_flights.html#ac122dbdd0229e0cbaff02f3105f1627f" title="Retorna un vector de n parelles, ordenat decreixentment pel primer, amb el primer argument la suma de..." alt="" coords="206,5,397,32"/>
+<area shape="rect" id="node7" href="$class_flights.html#a32f1abf0aa63094418b2449eadca686b" title="Retorna una llista de n parelles on el primer valor fa referència a la data i el segon a la suma de r..." alt="" coords="221,56,381,83"/>
+<area shape="rect" id="node8" href="$class_flights.html#a8d46bbe586f9380e4faa966f56e03b13" title="Afageix un vol a totes les estructures de dades del conjunt. " alt="" coords="201,157,401,184"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a341ddb4f098fda7cf8c53cc169010da8" title="Es llegeixen les dades dels fitxers a partir de les rutes entrades per teclat i es processen per tal ..." alt="" coords="637,107,727,133"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="792,81,843,108"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ad5b72be2e5f33edff3d8373ec1cba88e" title="Realitza un seguit de consultes sobre les dades llegides anteriorment. " alt="" coords="454,56,567,83"/>
+<area shape="rect" id="node9" href="$class_flights.html#a2e2e87f4dd4b3bf7ab91abeff0f3264d" title="El conjunt d&#39;avions és una copia de f. " alt="" coords="462,157,559,184"/>
+<area shape="rect" id="node10" href="$class_flights.html#a15a494de2be8fa44f6d11c734e9c63f2" title="Conjunt de vols és una copia de f. " alt="" coords="628,157,736,184"/>
+<area shape="rect" id="node11" href="$class_flights.html#aa07f6cf1e093f6dc8b101aaa75aa57ee" title="Conjunt de vols és una copia de f. " alt="" coords="620,208,744,235"/>
+</map>

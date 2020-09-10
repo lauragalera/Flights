@@ -1,0 +1,7 @@
+<map id="Routes::getAllRoutes" name="Routes::getAllRoutes">
+<area shape="rect" id="node2" href="$class_airline.html#ac51b4bd4f193811db26427cf08dd9048" title="Retorna el valor del codi ID de l&#39;aerolínia. " alt="" coords="219,5,318,32"/>
+<area shape="rect" id="node3" href="$class_airline.html#aa81a3357bc93f5f78a9def2e2ae8a64c" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="201,56,336,83"/>
+<area shape="rect" id="node4" href="$class_airline.html#a1883132f78251ad3311c609256cf851a" title="Retorna el valor del codi IATA. " alt="" coords="211,107,326,133"/>
+<area shape="rect" id="node5" href="$class_airline.html#afa70ebcbf7159d2def88b4f199297750" title="Retorna cert si es coneix el valor del codi ICAO, fals altrament. " alt="" coords="200,157,337,184"/>
+<area shape="rect" id="node6" href="$class_airline.html#ae79193f036bee8a11b31876898d6843c" title="Retorna el valor del codi ICAO. " alt="" coords="210,208,327,235"/>
+</map>

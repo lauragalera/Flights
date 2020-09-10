@@ -1,0 +1,8 @@
+<map id="Airport::knownIATA" name="Airport::knownIATA">
+<area shape="rect" id="node2" href="$class_airports.html#a6c529002376b4225381e1dfe35d63488" title="Afageix un aeroport al conjunt d&#39;aeroports. " alt="" coords="189,5,324,32"/>
+<area shape="rect" id="node5" href="$class_airports.html#a5af04f89deb52dfb0da12f2108713422" title="Aquest conunt d&#39;aeroports és una copia d&#39; a. " alt="" coords="205,56,308,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a341ddb4f098fda7cf8c53cc169010da8" title="Es llegeixen les dades dels fitxers a partir de les rutes entrades per teclat i es processen per tal ..." alt="" coords="392,5,483,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="551,5,601,32"/>
+<area shape="rect" id="node6" href="$class_airports.html#a4269d31a750f874296f0ad0f9ea0e721" title="Aquest conjunt d&#39;aeroports és una copia del conjunt a. " alt="" coords="377,56,497,83"/>
+<area shape="rect" id="node7" href="$class_airports.html#a1e35f6ecfe4c84ca7271e88b8e958127" title="Aquest conjunt d&#39;aeroports és una copia del conjunt a. " alt="" coords="372,107,503,133"/>
+</map>

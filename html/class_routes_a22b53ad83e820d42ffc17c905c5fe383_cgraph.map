@@ -1,0 +1,6 @@
+<map id="Routes::countRoutesByAirline" name="Routes::countRoutesByAirline">
+<area shape="rect" id="node2" href="$class_airlines.html#a20b11853daca1670827044133fca9e6d" title="Retorna una parella de valors on el primer indica el nom del país al qual pertany l&#39;aerolínia i el se..." alt="" coords="268,5,431,32"/>
+<area shape="rect" id="node3" href="$class_routes.html#a188a207bd8a913f3cccc07c3c190e4a3" title="Guarda al set countTypeAirlines una tupla de tipus AirlineType amb el nom de l&#39;aerolínia i el total d..." alt="" coords="252,56,447,83"/>
+<area shape="rect" id="node4" href="$class_airports.html#a80dcd14f11cb9e492fc9468c3d7d01aa" title="Airports::isNationalAirports" alt="" coords="495,56,673,83"/>
+<area shape="rect" id="node5" href="$class_airports.html#aee9f375e095a9e25532ba637af5fa0b9" title="Retorna el país de l&#39;aeroport que es pot identifica pels paràmetres d&#39;entrada. " alt="" coords="721,56,896,83"/>
+</map>

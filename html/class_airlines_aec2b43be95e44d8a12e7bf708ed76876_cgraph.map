@@ -1,0 +1,11 @@
+<map id="Airlines::copy" name="Airlines::copy">
+<area shape="rect" id="node2" href="$class_airline.html#ac51b4bd4f193811db26427cf08dd9048" title="Retorna el valor del codi ID de l&#39;aerolínia. " alt="" coords="209,5,308,32"/>
+<area shape="rect" id="node3" href="$class_airline.html#aa81a3357bc93f5f78a9def2e2ae8a64c" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="191,56,326,83"/>
+<area shape="rect" id="node4" href="$class_airlines.html#af1733579883b822a412599b525d0417e" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapIATAAirlines, després de contemplar un seguit de ..." alt="" coords="156,107,361,133"/>
+<area shape="rect" id="node7" href="$class_airline.html#afa70ebcbf7159d2def88b4f199297750" title="Retorna cert si es coneix el valor del codi ICAO, fals altrament. " alt="" coords="190,157,327,184"/>
+<area shape="rect" id="node8" href="$class_airlines.html#a118df13ab18a97913df469c8d6336dcf" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapICAOAirlines, després de contemplar un seguit de ..." alt="" coords="155,208,363,235"/>
+<area shape="rect" id="node10" href="$class_airlines.html#ad66b43d9510d9ed2feca687cb7ed88d6" title="Neteja les dades que poden generar ambigüitats per a identificar aerolínies, ja que certs camps que h..." alt="" coords="183,259,335,285"/>
+<area shape="rect" id="node5" href="$class_airline.html#a1883132f78251ad3311c609256cf851a" title="Retorna el valor del codi IATA. " alt="" coords="412,107,527,133"/>
+<area shape="rect" id="node6" href="$class_airline.html#ab127528e3f43d3056edc1867a9902c2e" title="Retorna cert si l&#39;aerolínia està activa, fals altrament. " alt="" coords="413,157,526,184"/>
+<area shape="rect" id="node9" href="$class_airline.html#ae79193f036bee8a11b31876898d6843c" title="Retorna el valor del codi ICAO. " alt="" coords="411,208,528,235"/>
+</map>

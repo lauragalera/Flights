@@ -1,0 +1,39 @@
+<map id="readAllData" name="readAllData">
+<area shape="rect" id="node2" href="$utils_8cpp.html#af1af5cab81fec7eb647dcf8e225846fc" title="openFile" alt="" coords="212,81,283,108"/>
+<area shape="rect" id="node3" href="$utils_8cpp.html#ad4d6f502427c50aec468e7bba6aa2c70" title="getNextLineAndSplitIntoTokens" alt="" coords="144,132,351,159"/>
+<area shape="rect" id="node4" href="$class_airports.html#a6c529002376b4225381e1dfe35d63488" title="Afageix un aeroport al conjunt d&#39;aeroports. " alt="" coords="180,183,315,209"/>
+<area shape="rect" id="node10" href="$class_airlines.html#a0bb32b80db1d3ef35b89f8dfddde59fc" title="Afageix una aerolínia vàlida al conjunt d&#39;aerolínies. " alt="" coords="182,385,313,412"/>
+<area shape="rect" id="node19" href="$class_planes.html#ae17268782b93016967aed062d2a0a0db" title="Afageix un avió al conjunt d&#39;avions si aquest és vàlid. " alt="" coords="185,537,309,564"/>
+<area shape="rect" id="node22" href="$class_routes.html#a9954c125d8848f6e3a5333c8aa6c4e12" title="Afageix una ruta al conjunt de rutes, sempre i quan la ruta sigui vàlida. " alt="" coords="183,892,311,919"/>
+<area shape="rect" id="node32" href="$class_flights.html#a4f7152181115a1add9a8616885ceca48" title="Afageix un vol al conjunt de vols sempre i quan aquest sigui vàlid. " alt="" coords="186,689,309,716"/>
+<area shape="rect" id="node37" href="$class_airlines.html#ad66b43d9510d9ed2feca687cb7ed88d6" title="Neteja les dades que poden generar ambigüitats per a identificar aerolínies, ja que certs camps que h..." alt="" coords="171,943,323,969"/>
+<area shape="rect" id="node38" href="$class_planes.html#a9557e566e86deacf3f12d4bb69ae756b" title="Neteja les dades que poden generar ambigüitats per a identificar avions, ja que el seu codi IATA està..." alt="" coords="173,993,322,1020"/>
+<area shape="rect" id="node5" href="$class_airport.html#a12f512764d7229f9c5319bdf072de8dd" title="Retorna el valor del codi ID d&#39;aquest aeroport. " alt="" coords="453,107,553,133"/>
+<area shape="rect" id="node6" href="$class_airport.html#a37cd13c45356e36ee6e6ab3569f38348" title="Retorna cert si el valor del codi IATA és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="435,157,571,184"/>
+<area shape="rect" id="node7" href="$class_airport.html#aa3e424fdfb9d745eb84d4b19dac52ddc" title="Retorna el valor del codi IATA d&#39;aquest aeroport. " alt="" coords="445,208,561,235"/>
+<area shape="rect" id="node8" href="$class_airport.html#a970c02b2dda35bbc21331c325ef73f19" title="Retorna cert si el valor del codi ICAO és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="433,5,572,32"/>
+<area shape="rect" id="node9" href="$class_airport.html#a0d5f4711b51cea0428b290f11f3042c8" title="Retorna el valor del codi ICAO d&#39;aquest aeroport. " alt="" coords="443,56,562,83"/>
+<area shape="rect" id="node11" href="$class_airline.html#ac51b4bd4f193811db26427cf08dd9048" title="Retorna el valor del codi ID de l&#39;aerolínia. " alt="" coords="453,360,552,387"/>
+<area shape="rect" id="node12" href="$class_airline.html#aa81a3357bc93f5f78a9def2e2ae8a64c" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="435,411,570,437"/>
+<area shape="rect" id="node13" href="$class_airlines.html#af1733579883b822a412599b525d0417e" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapIATAAirlines, després de contemplar un seguit de ..." alt="" coords="400,461,605,488"/>
+<area shape="rect" id="node16" href="$class_airline.html#afa70ebcbf7159d2def88b4f199297750" title="Retorna cert si es coneix el valor del codi ICAO, fals altrament. " alt="" coords="434,309,571,336"/>
+<area shape="rect" id="node17" href="$class_airlines.html#a118df13ab18a97913df469c8d6336dcf" title="Afageix el punter de newAirline a l&#39;estructura &#160;_mapICAOAirlines, després de contemplar un seguit de ..." alt="" coords="399,259,607,285"/>
+<area shape="rect" id="node14" href="$class_airline.html#a1883132f78251ad3311c609256cf851a" title="Retorna el valor del codi IATA. " alt="" coords="689,461,803,488"/>
+<area shape="rect" id="node15" href="$class_airline.html#ab127528e3f43d3056edc1867a9902c2e" title="Retorna cert si l&#39;aerolínia està activa, fals altrament. " alt="" coords="689,360,803,387"/>
+<area shape="rect" id="node18" href="$class_airline.html#ae79193f036bee8a11b31876898d6843c" title="Retorna el valor del codi ICAO. " alt="" coords="687,259,805,285"/>
+<area shape="rect" id="node20" href="$class_plane.html#a9ddc6f0d4b7046e8c567d8aea5042692" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="437,512,568,539"/>
+<area shape="rect" id="node21" href="$class_plane.html#a02b47ccaf5e5e3c3bfc1326fd584fe3a" title="Retorn el valor del codi IATA de l&#39;avió. " alt="" coords="447,563,558,589"/>
+<area shape="rect" id="node23" href="$class_airlines.html#abadecd45a138fce895f41899afab56c9" title="Comprova a partir del ID o del codi IATA o ICAO d&#39;una aerolínia si aquesta existeix en el conjunt..." alt="" coords="431,765,575,792"/>
+<area shape="rect" id="node24" href="$class_route.html#a69588b8d83a34a2674fcfe10000179f4" title="Retorna el codi ID de l&#39;areolínia que opera aquesta ruta. " alt="" coords="679,968,813,995"/>
+<area shape="rect" id="node25" href="$class_route.html#af5659cf6d2b40a4a6b5340f80b7c81e1" title="Retorna el codi IATA o ICAO de l&#39;aerolínia que opera aquesta ruta. " alt="" coords="655,1044,837,1071"/>
+<area shape="rect" id="node26" href="$class_airports.html#a2de2b0d73ce92c5de7c6b0e66274de8f" title="Comprova a partir del ID, el codi IATA o el codi ICAO si existeix l&#39;aeroport dins el conjunt..." alt="" coords="429,816,577,843"/>
+<area shape="rect" id="node27" href="$class_route.html#a5cb25fb95358b899aafaef99fa0584fa" title="Retorna el codi ID de l&#39;aeroport de sortida o destí. " alt="" coords="435,1120,570,1147"/>
+<area shape="rect" id="node28" href="$class_route.html#a5ce2451eb567868e412836d3cde1189c" title="Retorna el codi IATA o ICAO de l&#39;aeroport de sortida o destí. " alt="" coords="411,1171,595,1197"/>
+<area shape="rect" id="node29" href="$class_planes.html#a904efa64968b048d988fe94887a3c666" title="Retorna cert si tots els avions de la llista pertanyen al conjunt. " alt="" coords="418,867,587,893"/>
+<area shape="rect" id="node30" href="$class_route.html#a09ad47bb1b23e02a8cd81d9e2e6d8ff1" title="Retorna una list de strings amb els codis IATA dels avions usats en aquesta ruta. ..." alt="" coords="430,917,575,944"/>
+<area shape="rect" id="node31" href="$class_routes.html#ad5140a1e4cd489d63c1fc9a892864a3b" title="Afageix la ruta a l&#39;estructura que li pertoca, per tant, a &#160;_mapRoutesAirlines a &#160;_mapRoutesIATA o a ..." alt="" coords="407,1019,599,1045"/>
+<area shape="rect" id="node33" href="$class_flight.html#a76d5f90369b10eb2ef8d475ae8f3ead2" title="Retorna el valor del codi IATA de l&#39;aerolínia que opera el vol. " alt="" coords="673,613,819,640"/>
+<area shape="rect" id="node34" href="$class_flight.html#a7c33bcee25ad68f6c60b75a3f26c8c09" title="Retorna el valor del codi IATA de l&#39;aeroport de sortida o el d&#39;arribada. " alt="" coords="672,715,820,741"/>
+<area shape="rect" id="node35" href="$class_flights.html#a8d46bbe586f9380e4faa966f56e03b13" title="Afageix un vol a totes les estructures de dades del conjunt. " alt="" coords="403,664,603,691"/>
+<area shape="rect" id="node36" href="$class_flight.html#ac7d86ffa7e0b4d151d874d64b336df76" title="retorna la data d&#39;aquest vol. " alt="" coords="692,664,800,691"/>
+</map>

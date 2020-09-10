@@ -1,0 +1,5 @@
+<map id="Airlines::gatherInfoAirline" name="Airlines::gatherInfoAirline">
+<area shape="rect" id="node2" href="$class_flights.html#af29ccbe5fb49cbd90e85ea5d29e96fec" title="Retorna un vector de n parelles, ordenat decreixentment pel primer, amb el primer argument la suma de..." alt="" coords="220,5,407,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ad5b72be2e5f33edff3d8373ec1cba88e" title="Realitza un seguit de consultes sobre les dades llegides anteriorment. " alt="" coords="455,5,568,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="616,5,667,32"/>
+</map>

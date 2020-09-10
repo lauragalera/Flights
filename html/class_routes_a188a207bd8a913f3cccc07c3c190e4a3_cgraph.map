@@ -1,0 +1,4 @@
+<map id="Routes::classifyRoutesAirline" name="Routes::classifyRoutesAirline">
+<area shape="rect" id="node2" href="$class_airports.html#a80dcd14f11cb9e492fc9468c3d7d01aa" title="Airports::isNationalAirports" alt="" coords="248,5,427,32"/>
+<area shape="rect" id="node3" href="$class_airports.html#aee9f375e095a9e25532ba637af5fa0b9" title="Retorna el país de l&#39;aeroport que es pot identifica pels paràmetres d&#39;entrada. " alt="" coords="475,5,649,32"/>
+</map>

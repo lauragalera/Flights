@@ -1,0 +1,6 @@
+<map id="Flights::daysMoreDelay" name="Flights::daysMoreDelay">
+<area shape="rect" id="node2" href="$class_flight.html#ac784a4e386dfa55fb519812cd82e60c0" title="Retorna el valor del retard de sortida o el d&#39;arribada. " alt="" coords="230,5,345,32"/>
+<area shape="rect" id="node3" href="$class_flight.html#ac7d86ffa7e0b4d151d874d64b336df76" title="retorna la data d&#39;aquest vol. " alt="" coords="233,56,341,83"/>
+<area shape="rect" id="node4" href="$class_airports.html#a2de2b0d73ce92c5de7c6b0e66274de8f" title="Comprova a partir del ID, el codi IATA o el codi ICAO si existeix l&#39;aeroport dins el conjunt..." alt="" coords="213,107,361,133"/>
+<area shape="rect" id="node5" href="$class_flight.html#a7c33bcee25ad68f6c60b75a3f26c8c09" title="Retorna el valor del codi IATA de l&#39;aeroport de sortida o el d&#39;arribada. " alt="" coords="213,157,361,184"/>
+</map>

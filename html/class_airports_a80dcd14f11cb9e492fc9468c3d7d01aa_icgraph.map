@@ -1,0 +1,6 @@
+<map id="Airports::isNationalAirports" name="Airports::isNationalAirports">
+<area shape="rect" id="node2" href="$class_routes.html#a188a207bd8a913f3cccc07c3c190e4a3" title="Guarda al set countTypeAirlines una tupla de tipus AirlineType amb el nom de l&#39;aerolínia i el total d..." alt="" coords="232,5,427,32"/>
+<area shape="rect" id="node3" href="$class_routes.html#a22b53ad83e820d42ffc17c905c5fe383" title="Retorna un set que conté tuples de tipus AirlineType amb el recompte de rutes nacionals i internacion..." alt="" coords="475,5,673,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ad5b72be2e5f33edff3d8373ec1cba88e" title="Realitza un seguit de consultes sobre les dades llegides anteriorment. " alt="" coords="721,5,835,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="883,5,933,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Airports::copy" name="Airports::copy">
+<area shape="rect" id="node2" href="$class_airport.html#a37cd13c45356e36ee6e6ab3569f38348" title="Retorna cert si el valor del codi IATA és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="157,5,293,32"/>
+<area shape="rect" id="node3" href="$class_airport.html#aa3e424fdfb9d745eb84d4b19dac52ddc" title="Retorna el valor del codi IATA d&#39;aquest aeroport. " alt="" coords="167,56,283,83"/>
+<area shape="rect" id="node4" href="$class_airport.html#a970c02b2dda35bbc21331c325ef73f19" title="Retorna cert si el valor del codi ICAO és conegut (entenent com a conegut un no Null), fals altrament. " alt="" coords="156,107,295,133"/>
+<area shape="rect" id="node5" href="$class_airport.html#a0d5f4711b51cea0428b290f11f3042c8" title="Retorna el valor del codi ICAO d&#39;aquest aeroport. " alt="" coords="166,157,285,184"/>
+</map>

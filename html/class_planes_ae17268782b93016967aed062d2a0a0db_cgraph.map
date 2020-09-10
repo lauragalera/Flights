@@ -1,0 +1,4 @@
+<map id="Planes::addPlane" name="Planes::addPlane">
+<area shape="rect" id="node2" href="$class_plane.html#a9ddc6f0d4b7046e8c567d8aea5042692" title="Retorna cert si es coneix el valor del codi IATA, fals altrament. " alt="" coords="177,5,308,32"/>
+<area shape="rect" id="node3" href="$class_plane.html#a02b47ccaf5e5e3c3bfc1326fd584fe3a" title="Retorn el valor del codi IATA de l&#39;avió. " alt="" coords="187,56,298,83"/>
+</map>

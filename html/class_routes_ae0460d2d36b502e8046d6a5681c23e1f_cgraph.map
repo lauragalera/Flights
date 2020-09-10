@@ -1,0 +1,5 @@
+<map id="Routes::Routes" name="Routes::Routes">
+<area shape="rect" id="node2" href="$class_routes.html#a0250920061bb7bacaf6bf9243ed346b7" title="El conjunt de rutes és una copia r. " alt="" coords="168,31,268,57"/>
+<area shape="rect" id="node3" href="$class_route.html#a69588b8d83a34a2674fcfe10000179f4" title="Retorna el codi ID de l&#39;areolínia que opera aquesta ruta. " alt="" coords="341,5,474,32"/>
+<area shape="rect" id="node4" href="$class_route.html#af5659cf6d2b40a4a6b5340f80b7c81e1" title="Retorna el codi IATA o ICAO de l&#39;aerolínia que opera aquesta ruta. " alt="" coords="316,56,499,83"/>
+</map>

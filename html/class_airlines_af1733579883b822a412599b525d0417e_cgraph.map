@@ -1,0 +1,4 @@
+<map id="Airlines::manageIATARepeated" name="Airlines::manageIATARepeated">
+<area shape="rect" id="node2" href="$class_airline.html#a1883132f78251ad3311c609256cf851a" title="Retorna el valor del codi IATA. " alt="" coords="259,5,373,32"/>
+<area shape="rect" id="node3" href="$class_airline.html#ab127528e3f43d3056edc1867a9902c2e" title="Retorna cert si l&#39;aerolínia està activa, fals altrament. " alt="" coords="259,56,373,83"/>
+</map>

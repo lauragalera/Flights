@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Pràctica 1: Fitxer de Codi Route.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="Screenshot from 2019-11-30 23-41-29.png"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Pràctica 1
+   </div>
+   <div id="projectbrief">Consultes d&#39;aviació</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('_route_8h_source.html','');});
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="header">
+  <div class="headertitle">
+<div class="title">Route.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_route_8h.html">Veure la documentació d'aquest fitxer.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">//Laura Galera Alfaro</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment">//u1959173</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment">//practica final</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#ifndef ROUTE_H</span></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#define ROUTE_H</span></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#include &lt;iostream&gt;</span></div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#include &lt;string&gt;</span></div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &lt;sstream&gt;</span></div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="preprocessor">#include &lt;vector&gt;</span></div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#include &lt;list&gt;</span></div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="keyword">using namespace </span><a class="code" href="namespacestd.html">std</a>;</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div><div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="class_route.html">   24</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_route.html">Route</a> {</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    <a class="code" href="class_route.html">Route</a>(<span class="keyword">const</span> vector&lt;string&gt; &amp;dataRead);</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    </div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keywordtype">int</span> getIDAirline() <span class="keyword">const</span>;</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    </div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <span class="keywordtype">string</span> getIATAICAOAirline() <span class="keyword">const</span>;</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    </div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <span class="keywordtype">int</span> getIDAirport(<span class="keywordtype">char</span> type) <span class="keyword">const</span>;</div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    </div><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordtype">string</span> getIATAICAOAirport(<span class="keywordtype">char</span> type) <span class="keyword">const</span>;</div><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    </div><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    list&lt;string&gt; getEquipment() <span class="keyword">const</span>;</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<span class="keyword">private</span>:</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;</div><div class="line"><a name="l00062"></a><span class="lineno"><a class="line" href="class_route.html#a2afbffc07f53bd8631e8b3d530e23f81">   62</a></span>&#160;    <span class="keywordtype">string</span> <a class="code" href="class_route.html#a2afbffc07f53bd8631e8b3d530e23f81">_IATAICAOAirline</a>;    </div><div class="line"><a name="l00063"></a><span class="lineno"><a class="line" href="class_route.html#aab41482745268153854c039c7364fab9">   63</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_route.html#aab41482745268153854c039c7364fab9">_airlineID</a>;             </div><div class="line"><a name="l00064"></a><span class="lineno"><a class="line" href="class_route.html#a0936a111f446a717b3f1d5a0ea558445">   64</a></span>&#160;    <span class="keywordtype">string</span> <a class="code" href="class_route.html#a0936a111f446a717b3f1d5a0ea558445">_sourceAirport</a>;      </div><div class="line"><a name="l00065"></a><span class="lineno"><a class="line" href="class_route.html#a8bd16926f02c8e47e85a2c6b14cb243f">   65</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_route.html#a8bd16926f02c8e47e85a2c6b14cb243f">_IDsourceAirport</a>;       </div><div class="line"><a name="l00066"></a><span class="lineno"><a class="line" href="class_route.html#a2ad37f895413ed40b5db21596d652a7a">   66</a></span>&#160;    <span class="keywordtype">string</span> <a class="code" href="class_route.html#a2ad37f895413ed40b5db21596d652a7a">_destinationAirport</a>; </div><div class="line"><a name="l00067"></a><span class="lineno"><a class="line" href="class_route.html#aaf31186c41a2cf5f5e0b4f194a2d6978">   67</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_route.html#aaf31186c41a2cf5f5e0b4f194a2d6978">_IDdestinationAirport</a>;  </div><div class="line"><a name="l00068"></a><span class="lineno"><a class="line" href="class_route.html#a562eb3099ce94ac59ed3edb9488a7c66">   68</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="class_route.html#a562eb3099ce94ac59ed3edb9488a7c66">_codeShare</a>;            </div><div class="line"><a name="l00069"></a><span class="lineno"><a class="line" href="class_route.html#a40639aa391c0c8d141d0bffb4854700d">   69</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_route.html#a40639aa391c0c8d141d0bffb4854700d">_stops</a>;                 </div><div class="line"><a name="l00070"></a><span class="lineno"><a class="line" href="class_route.html#a0c5105abd7728d611d703804d59b42d9">   70</a></span>&#160;    list&lt;string&gt; <a class="code" href="class_route.html#a0c5105abd7728d611d703804d59b42d9">_equipment</a>;    </div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;</div><div class="line"><a name="l00072"></a><span class="lineno"><a class="line" href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4">   72</a></span>&#160;    <span class="keyword">enum</span> <a class="code" href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4">IndexData</a> {</div><div class="line"><a name="l00073"></a><span class="lineno"><a class="line" href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4a8446ba89267134ba4ad62962b85f2b20">   73</a></span>&#160;        IATAICAOAirline, IDAirline, IATAICAOAirportS, IDAirportS, IATAICAOAirportD, IDAirportD, codeShare, <a class="code" href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4a8446ba89267134ba4ad62962b85f2b20">stops</a>, flightsUsed</div><div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    }; </div><div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;};</div><div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;</div><div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="preprocessor">#endif </span><span class="comment">/* ROUTE_H */</span><span class="preprocessor"></span></div><div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;</div><div class="ttc" id="class_route_html_a40639aa391c0c8d141d0bffb4854700d"><div class="ttname"><a href="class_route.html#a40639aa391c0c8d141d0bffb4854700d">Route::_stops</a></div><div class="ttdeci">int _stops</div><div class="ttdoc">Número d&amp;#39;escales de la ruta. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00069">Route.h:69</a></div></div>
+<div class="ttc" id="class_route_html"><div class="ttname"><a href="class_route.html">Route</a></div><div class="ttdoc">Una ruta. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00024">Route.h:24</a></div></div>
+<div class="ttc" id="namespacestd_html"><div class="ttname"><a href="namespacestd.html">std</a></div></div>
+<div class="ttc" id="class_route_html_a2ad37f895413ed40b5db21596d652a7a"><div class="ttname"><a href="class_route.html#a2ad37f895413ed40b5db21596d652a7a">Route::_destinationAirport</a></div><div class="ttdeci">string _destinationAirport</div><div class="ttdoc">Codi IATA de l&amp;#39;aeroport d&amp;#39;arribada si té 3 lletres, codi ICAO si en té 4. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00066">Route.h:66</a></div></div>
+<div class="ttc" id="class_route_html_adcb94cfb0f8f11bfa1951220a5ebd2e4a8446ba89267134ba4ad62962b85f2b20"><div class="ttname"><a href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4a8446ba89267134ba4ad62962b85f2b20">Route::stops</a></div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00073">Route.h:73</a></div></div>
+<div class="ttc" id="class_route_html_a2afbffc07f53bd8631e8b3d530e23f81"><div class="ttname"><a href="class_route.html#a2afbffc07f53bd8631e8b3d530e23f81">Route::_IATAICAOAirline</a></div><div class="ttdeci">string _IATAICAOAirline</div><div class="ttdoc">2 lletres si és el codi IATA, 3 lletres si és el codi ICAO. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00062">Route.h:62</a></div></div>
+<div class="ttc" id="class_route_html_a8bd16926f02c8e47e85a2c6b14cb243f"><div class="ttname"><a href="class_route.html#a8bd16926f02c8e47e85a2c6b14cb243f">Route::_IDsourceAirport</a></div><div class="ttdeci">int _IDsourceAirport</div><div class="ttdoc">Codi ID de l&amp;#39;aerport de sortida. Si es desconeix -1. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00065">Route.h:65</a></div></div>
+<div class="ttc" id="class_route_html_a0c5105abd7728d611d703804d59b42d9"><div class="ttname"><a href="class_route.html#a0c5105abd7728d611d703804d59b42d9">Route::_equipment</a></div><div class="ttdeci">list&lt; string &gt; _equipment</div><div class="ttdoc">Llista amb el codi IATA dels avions utilitzats en la ruta. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00070">Route.h:70</a></div></div>
+<div class="ttc" id="class_route_html_a562eb3099ce94ac59ed3edb9488a7c66"><div class="ttname"><a href="class_route.html#a562eb3099ce94ac59ed3edb9488a7c66">Route::_codeShare</a></div><div class="ttdeci">bool _codeShare</div><div class="ttdoc">Cert si té un codeshare(no es operada per un airline), fals altrament. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00068">Route.h:68</a></div></div>
+<div class="ttc" id="class_route_html_a0936a111f446a717b3f1d5a0ea558445"><div class="ttname"><a href="class_route.html#a0936a111f446a717b3f1d5a0ea558445">Route::_sourceAirport</a></div><div class="ttdeci">string _sourceAirport</div><div class="ttdoc">Codi IATA de l&amp;#39;aeroport de sortida si té 3 lletres, codi ICAO si en té 4. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00064">Route.h:64</a></div></div>
+<div class="ttc" id="class_route_html_aaf31186c41a2cf5f5e0b4f194a2d6978"><div class="ttname"><a href="class_route.html#aaf31186c41a2cf5f5e0b4f194a2d6978">Route::_IDdestinationAirport</a></div><div class="ttdeci">int _IDdestinationAirport</div><div class="ttdoc">Codi ID de l&amp;#39;aeroport d&amp;#39;arribada. Si es desconeix -1. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00067">Route.h:67</a></div></div>
+<div class="ttc" id="class_route_html_aab41482745268153854c039c7364fab9"><div class="ttname"><a href="class_route.html#aab41482745268153854c039c7364fab9">Route::_airlineID</a></div><div class="ttdeci">int _airlineID</div><div class="ttdoc">Codi ID de l&amp;#39;aerolínia. Si es desconeix -1. </div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00063">Route.h:63</a></div></div>
+<div class="ttc" id="class_route_html_adcb94cfb0f8f11bfa1951220a5ebd2e4"><div class="ttname"><a href="class_route.html#adcb94cfb0f8f11bfa1951220a5ebd2e4">Route::IndexData</a></div><div class="ttdeci">IndexData</div><div class="ttdef"><b>Definition:</b> <a href="_route_8h_source.html#l00072">Route.h:72</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="_route_8h.html">Route.h</a></li>
+    <li class="footer">Generat per
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
+  </ul>
+</div>
+</body>
+</html>
